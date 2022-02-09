@@ -1,0 +1,18 @@
+To Start Script --> 
+1. run it in background 
+2. when game starts, u have to select and assign first "Nexus" as CTRL + 0 Group.
+3. Script will be enabled and build order will be activated.
+4. If you build another Nexus, u have to select and add them to 0 Group 
+   by selecting 2nd nexus and pressing "shift" + "0"
+5. Probes will be issued automatically as soon as first nexus will be added to group 0.
+6. assign Gateway same way to group 9, that would activate issuing Army (zealot and stalkers)
+7. to stop press CTRL + P, to delay by 5 seconds press "CTRL" + "-"
+8. DO not assign group 5 to anything, it is reserved for script.
+Have fun to adapt.
+
+Issued KeyStrokes When script will be activated
+====================
+0e50e50e50e50e50e50e5)0ee5)0eee50eee5(0eee5((0eee59s50eee5
+0eee59s50eee50eee50eee50eee59s50eee50eee50eee9ss50eee50eee59zz50eee59zz5
+
+====================
